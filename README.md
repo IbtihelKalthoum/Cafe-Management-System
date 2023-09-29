@@ -2,7 +2,7 @@
 
 Welcome to the Cafe Management System repository! This project provides a comprehensive solution for efficient and streamlined cafe operations.
 
-
+ 
 
 ## 🌟 Core Features
 
