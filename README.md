@@ -4,12 +4,20 @@ Welcome to the Cafe Management System repository! This project provides a compre
 
 
 
-## 🌟 Features
+## 🌟 Core Features
 
-- **Responsive Dashboard**: 📊 Manage orders, track sales, and view analytics.
-- **Inventory Management**: 🍞🥐 Monitor stock levels and get alerts on low inventory items.
-- **Order Processing**: 🛍️ Facilitate smooth order-to-delivery processes with automated workflows.
-- **Customer Management**: 👥 Maintain a database of regular customers, manage loyalty programs, and offer personalized deals.
+### For Admin:
+
+- **Cafe Dashboard**: 📊 A holistic view of all cafe operations in one place.
+- **Product Management**: 🥐 Ability to add, update, or remove products seamlessly.
+- **Category Management**: 🏷️ Organize products by adding or editing categories.
+- **User Authorization**: 🛂 Control access by accepting or declining user registrations.
+  
+### For Users:
+
+- **Product Exploration**: 🔍 Browse products with ease and clarity.
+- **Order Placement**: 🛍️ A streamlined process to select products and place orders.
+- **Bill Generation**: 🧾 Instantly generate and print bills for your orders.
 
 ## 🛠️ Built Using
 
